@@ -94,12 +94,19 @@ This analysis utilized two key visualizations: scatter plots and residual plots,
 Scatter plot (Validation & Test Data):
 Scatter plots show the correlation between anticipated and real values. Close alignment between the dots and the anticipated line indicates accurate earthquake predictions.
 
+![test_scatter_plot](https://github.com/odwct/Project_4_Machine_Learning/assets/126130532/87a14268-b0c8-4034-a0c3-f2368590f14d)
+![res_test_scatter_plot](https://github.com/odwct/Project_4_Machine_Learning/assets/126130532/3e008c15-0527-4a52-bade-5e76adefba9f)
+
 Residual plot (Validation & Test Data):
 Residual plots show error distribution in predictions. Our validation and test data both have "bell-shaped" plots, indicating consistent errors and stable performance across scenarios.
+
+![validation_scatter_plot](https://github.com/odwct/Project_4_Machine_Learning/assets/126130532/0a96e3b1-28f0-4a2c-823a-13f9b147077c)
+![res_val_scatter_plot](https://github.com/odwct/Project_4_Machine_Learning/assets/126130532/2489362f-ff4d-4ba2-b478-ae5e1188ad4a)
 
 ## Map of predictions
 The map visually represents the geographical locations of actual earthquakes (ground truth data) and the predicted earthquake locations.
 
+![Map_plot](https://github.com/odwct/Project_4_Machine_Learning/assets/126130532/690e749c-abe6-4d7f-a178-84599d267fba)
 
 ## Conclusion
 The earthquake prediction model uses machine learning technology to enhance early warning systems and risk assessments. The precision-focused approach ensures good accuracy and reliability. This work highlights the potential of machine learning in addressing real-world challenges and emphasizes ongoing research into earthquake prediction and response.
